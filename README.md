@@ -7,5 +7,5 @@ rot13Decoder.py: Decoding strings using rot13, a letter substitution cipher
 ## References
 * ASCII Table: http://www.asciitable.com/
 
-### What I Like Use
+### What I Like to  Use
 I code in the terminal using vim

@@ -2,7 +2,8 @@
 A suite of tools I created to help out with CTFs!
 
 ## Programs
-rot13Decoder.py: Decoding strings using rot13, a letter substitution cipher
+* rot13Decoder.py: Decoding strings using rot13, a letter substitution cipher.
+    * Converts all letters to ASCII, shifts letters 13 units to the right (with a wraparound back to 'a' if the shifted letter goes beyond 'z'), and applies uppercase if the original string had an uppercase character in that position!
 
 ## References
 * ASCII Table: http://www.asciitable.com/
